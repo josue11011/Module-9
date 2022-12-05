@@ -5,3 +5,8 @@
 i = 0
 while i<10:
     print("infinite")
+    
+#infinite loop
+while True:
+    print("infinite")
+
